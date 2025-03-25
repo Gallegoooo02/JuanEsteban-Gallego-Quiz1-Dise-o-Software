@@ -1,0 +1,12 @@
+Exception\InvalidMotocicletaDataException.class
+Service\UserService.class
+DTOs\MotocicletaDTO.class
+DTOs\UserDTO.class
+Validator\UserValidator.class
+Service\MotocicletaService.class
+com\mycompany\quiz\DatabaseConfig.class
+com\mycompany\quiz\Quiz.class
+Exception\InvalidUserDataException.class
+Repositorio\UserRepository.class
+Validator\MotocicletaValidator.class
+Repositorio\MotocicletaRepository.class
